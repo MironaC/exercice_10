@@ -789,6 +789,7 @@ a {
 
 .wp-block-media-text__media {
   border: solid #ddd 2px;
+  border-radius: 5px;
   padding: 1em;
 }
 
